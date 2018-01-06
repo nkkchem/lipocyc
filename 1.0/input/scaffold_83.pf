@@ -1,0 +1,20 @@
+ID	Lipst1_1_338482
+NAME	aspartic-type endopeptidase activity
+STARTBASE	1890
+ENDBASE	723
+PRODUCT-TYPE	P
+DBLINK	GO:0004190
+DBLINK	GO:0006508
+INTRON	723-1081
+INTRON	1661-1890
+FUNCTION	aspartic-type endopeptidase activity
+FUNCTION	proteolysis
+//
+ID	Lipst1_1_34330
+NAME	FOG: Transposon-encoded proteins with TYA, reverse transcriptase, integrase domains in various combinations
+STARTBASE	257
+ENDBASE	66
+PRODUCT-TYPE	P
+DBLINK	KOG:KOG0017
+FUNCTION	FOG: Transposon-encoded proteins with TYA, reverse transcriptase, integrase domains in various combinations
+//

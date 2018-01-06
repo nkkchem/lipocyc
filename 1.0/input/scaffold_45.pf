@@ -1,0 +1,10 @@
+ID	Lipst1_1_76783
+NAME	protein dimerization activity
+STARTBASE	2816
+ENDBASE	3254
+PRODUCT-TYPE	P
+DBLINK	GO:0046983
+INTRON	2816-2849
+INTRON	3060-3254
+FUNCTION	protein dimerization activity
+//

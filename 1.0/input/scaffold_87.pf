@@ -1,0 +1,15 @@
+ID	Lipst1_1_322673
+NAME	Dehydrogenases with different specificities (related to short-chain alcohol dehydrogenases)
+STARTBASE	1062
+ENDBASE	2229
+PRODUCT-TYPE	P
+DBLINK	KOG:KOG1208
+DBLINK	GO:0003824
+DBLINK	GO:0005488
+DBLINK	GO:0008152
+DBLINK	GO:0016491
+INTRON	1062-1230
+INTRON	1304-1355
+INTRON	1886-2229
+FUNCTION	Dehydrogenases with different specificities (related to short-chain alcohol dehydrogenases)
+//

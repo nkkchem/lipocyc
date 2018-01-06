@@ -1,0 +1,850 @@
+Accepted   G1IA6-16535-MONOMER    a cation                 CHANNEL   
+           ca2+-modulated nonselective cation channel polycystin
+           a cation[periplasm]  ->  a cation[cytosol]
+Accepted   G1IA6-16493-MONOMER    a nucleoside             UNKNOWN   
+           equilibrative nucleoside transporter protein
+           a nucleoside[periplasm]  ->  a nucleoside[cytosol]
+Accepted   G1IA6-16491-MONOMER    DNAn                     UNKNOWN   
+           5'-3' exonuclease xrn1/kem1/sep1 involved in dna strand exchange and mrna turnover
+           DNAn[periplasm]  ->  DNAn[cytosol]
+Accepted   G1IA6-16462-MONOMER    Na+                      SECONDARY 
+           na+/pi symporter
+           Na+[periplasm] + H+[periplasm]  ->  Na+[cytosol] + H+[cytosol]
+Accepted   G1IA6-23577-MONOMER    ammonia                  SECONDARY 
+           ammonia permease
+           ammonia[periplasm] + H+[periplasm]  ->  ammonia[cytosol] + H+[cytosol]
+Accepted   G1IA6-16397-MONOMER    a nucleoside             UNKNOWN   
+           equilibrative nucleoside transporter protein
+           a nucleoside[periplasm]  ->  a nucleoside[cytosol]
+Accepted   G1IA6-23520-MONOMER    a cation                 CHANNEL   
+           ca2+-modulated nonselective cation channel polycystin
+           a cation[periplasm]  ->  a cation[cytosol]
+Accepted   G1IA6-16395-MONOMER    a nucleoside             UNKNOWN   
+           equilibrative nucleoside transporter protein
+           a nucleoside[periplasm]  ->  a nucleoside[cytosol]
+Accepted   G1IA6-23513-MONOMER    Cu2+                     UNKNOWN   
+           copper transporter
+           Cu2+[periplasm]  ->  Cu2+[cytosol]
+Accepted   G1IA6-23488-MONOMER    an oligopeptide          SECONDARY 
+           h+/oligopeptide symporter
+           an oligopeptide[periplasm] + H+[periplasm]  ->  an oligopeptide[cytosol] + H+[cytosol]
+Accepted   G1IA6-23484-MONOMER    sucrose                  UNKNOWN   
+           sucrose transporter and related proteins
+           sucrose[periplasm]  ->  sucrose[cytosol]
+Accepted   G1IA6-23438-MONOMER    a nucleoside             UNKNOWN   
+           nucleoside transporter
+           a nucleoside[periplasm]  ->  a nucleoside[cytosol]
+Accepted   G1IA6-23405-MONOMER    a cation                 CHANNEL   
+           ca2+-modulated nonselective cation channel polycystin
+           a cation[periplasm]  ->  a cation[cytosol]
+Accepted   G1IA6-23364-MONOMER    thiamine                 UNKNOWN   
+           uridine permease/thiamine transporter/allantoin transport
+           thiamine[periplasm]  ->  thiamine[cytosol]
+Accepted   G1IA6-23305-MONOMER    K+                       SECONDARY 
+           na+/k+ transporter
+           K+[periplasm] + Na+[periplasm]  ->  K+[cytosol] + Na+[cytosol]
+Accepted   G1IA6-21844-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1IA6-21707-MONOMER    thiamine                 UNKNOWN   
+           uridine permease/thiamine transporter/allantoin transport
+           thiamine[periplasm]  ->  thiamine[cytosol]
+Accepted   G1IA6-21656-MONOMER    thiamine                 UNKNOWN   
+           uridine permease/thiamine transporter/allantoin transport
+           thiamine[periplasm]  ->  thiamine[cytosol]
+Accepted   G1IA6-19845-MONOMER    a cation                 CHANNEL   
+           ca2+-modulated nonselective cation channel polycystin
+           a cation[periplasm]  ->  a cation[cytosol]
+Accepted   G1IA6-21591-MONOMER    phosphate                UNKNOWN   
+           inorganic phosphate transporter
+           phosphate[periplasm]  <-  phosphate[cytosol]
+Accepted   G1IA6-19787-MONOMER    Zn2+                     SECONDARY 
+           putative zn2+ transporter msc2 (cation diffusion facilitator superfamily)
+           Zn2+[periplasm] + H+[periplasm]  ->  Zn2+[cytosol] + H+[cytosol]
+Accepted   G1IA6-21532-MONOMER    thiamine                 UNKNOWN   
+           uridine permease/thiamine transporter/allantoin transport
+           thiamine[periplasm]  ->  thiamine[cytosol]
+Accepted   G1IA6-19694-MONOMER    Cu2+                     UNKNOWN   
+           copper transporter
+           Cu2+[periplasm]  ->  Cu2+[cytosol]
+Accepted   G1IA6-19634-MONOMER    a nucleotide             UNKNOWN   
+           guanine nucleotide exchange factor
+           a nucleotide[periplasm]  ->  a nucleotide[cytosol]
+Accepted   G1IA6-19634-MONOMER    guanine                  UNKNOWN   
+           guanine nucleotide exchange factor
+           guanine[periplasm]  ->  guanine[cytosol]
+Accepted   G1IA6-19631-MONOMER    Cu2+                     UNKNOWN   
+           copper transporter
+           Cu2+[periplasm]  ->  Cu2+[cytosol]
+Accepted   G1IA6-19621-MONOMER    cholesterol              UNKNOWN   
+           predicted mitochondrial cholesterol transporter
+           cholesterol[periplasm]  ->  cholesterol[cytosol]
+Accepted   G1IA6-19605-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporter protein
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1IA6-19584-MONOMER    Cu2+                     UNKNOWN   
+           copper transporter
+           Cu2+[periplasm]  ->  Cu2+[cytosol]
+Accepted   G1IA6-23794-MONOMER    thiamine                 UNKNOWN   
+           uridine permease/thiamine transporter/allantoin transport
+           thiamine[periplasm]  ->  thiamine[cytosol]
+Accepted   G1IA6-23781-MONOMER    K+                       SECONDARY 
+           na+/k+ transporter
+           K+[periplasm] + Na+[periplasm]  ->  K+[cytosol] + Na+[cytosol]
+Accepted   G1IA6-23778-MONOMER    thiamine                 UNKNOWN   
+           uridine permease/thiamine transporter/allantoin transport
+           thiamine[periplasm]  ->  thiamine[cytosol]
+Accepted   G1IA6-19520-MONOMER    phosphate                UNKNOWN   
+           inorganic phosphate transporter
+           phosphate[periplasm]  <-  phosphate[cytosol]
+Accepted   G1IA6-23725-MONOMER    thiamine                 UNKNOWN   
+           uridine permease/thiamine transporter/allantoin transport
+           thiamine[periplasm]  ->  thiamine[cytosol]
+Accepted   G1IA6-23721-MONOMER    thiamine                 UNKNOWN   
+           uridine permease/thiamine transporter/allantoin transport
+           thiamine[periplasm]  ->  thiamine[cytosol]
+Accepted   G1IA6-19484-MONOMER    a nucleotide             UNKNOWN   
+           membrane//nucleobase transmembrane transporter activity//nucleobase, nucleoside, nucleotide and nucleic acid transport
+           a nucleotide[periplasm]  ->  a nucleotide[cytosol]
+Accepted   G1IA6-19484-MONOMER    a nucleoside             UNKNOWN   
+           membrane//nucleobase transmembrane transporter activity//nucleobase, nucleoside, nucleotide and nucleic acid transport
+           a nucleoside[periplasm]  ->  a nucleoside[cytosol]
+Accepted   G1IA6-19480-MONOMER    Zn2+                     UNKNOWN   
+           fe2+/zn2+ regulated transporter
+           Zn2+[periplasm]  ->  Zn2+[cytosol]
+Accepted   G1IA6-23648-MONOMER    chloride                 CHANNEL   
+           cl- channel clc-3 and related proteins (clc superfamily)
+           chloride[periplasm]  <-->  chloride[cytosol]
+Accepted   G1IA6-23646-MONOMER    Na+                      SECONDARY 
+           predicted na+-dependent cotransporter
+           Na+[periplasm] + H+[periplasm]  ->  Na+[cytosol] + H+[cytosol]
+Accepted   G1IA6-23634-MONOMER    thiamine                 UNKNOWN   
+           uridine permease/thiamine transporter/allantoin transport
+           thiamine[periplasm]  ->  thiamine[cytosol]
+Accepted   G1IA6-19404-MONOMER    Na+                      SECONDARY 
+           predicted na+-dependent cotransporter
+           Na+[periplasm] + H+[periplasm]  ->  Na+[cytosol] + H+[cytosol]
+Accepted   G1IA6-19370-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1IA6-19328-MONOMER    chloride                 CHANNEL   
+           cl- channel clc-3 and related proteins (clc superfamily)
+           chloride[periplasm]  <-->  chloride[cytosol]
+Accepted   G1IA6-19301-MONOMER    ammonia                  SECONDARY 
+           ammonia permease
+           ammonia[periplasm] + H+[periplasm]  ->  ammonia[cytosol] + H+[cytosol]
+Accepted   G1IA6-19281-MONOMER    UDP-alpha-D-galactose    UNKNOWN   
+           predicted udp-galactose transporter
+           UDP-alpha-D-galactose[periplasm]  ->  UDP-alpha-D-galactose[cytosol]
+Accepted   G1IA6-17844-MONOMER    Zn2+                     UNKNOWN   
+           zip-like zinc transporter proteins
+           Zn2+[periplasm]  ->  Zn2+[cytosol]
+Accepted   G1IA6-17818-MONOMER    a bile acid              SECONDARY 
+           bile acid:sodium symporter activity//integral to membrane//membrane//sodium ion transport
+           a bile acid[periplasm] + H+[periplasm]  ->  a bile acid[cytosol] + H+[cytosol]
+Accepted   G1IA6-17738-MONOMER    Ca2+                     SECONDARY 
+           ca2+/h+ antiporter vcx1 and related proteins
+           Ca2+[periplasm] + H+[cytosol]  ->  Ca2+[cytosol] + H+[periplasm]
+Accepted   G1IA6-17733-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1IA6-17665-MONOMER    a cation                 CHANNEL   
+           ca2+-modulated nonselective cation channel polycystin
+           a cation[periplasm]  ->  a cation[cytosol]
+Accepted   G1IA6-17661-MONOMER    oxalate                  UNKNOWN   
+           sulfate/bicarbonate/oxalate exchanger sat-1 and related transporters (slc26 family)
+           oxalate[periplasm]  ->  oxalate[cytosol]
+Accepted   G1IA6-17661-MONOMER    hydrogencarbonate        UNKNOWN   
+           sulfate/bicarbonate/oxalate exchanger sat-1 and related transporters (slc26 family)
+           hydrogencarbonate[periplasm]  ->  hydrogencarbonate[cytosol]
+Accepted   G1IA6-17661-MONOMER    sulfate                  UNKNOWN   
+           sulfate/bicarbonate/oxalate exchanger sat-1 and related transporters (slc26 family)
+           sulfate[periplasm]  ->  sulfate[cytosol]
+Accepted   G1IA6-22249-MONOMER    hydrogencarbonate        UNKNOWN   
+           na+-independent cl/hco3 exchanger ae1 and related transporters (slc4 family)
+           hydrogencarbonate[periplasm]  ->  hydrogencarbonate[cytosol]
+Accepted   G1IA6-22249-MONOMER    chloride                 UNKNOWN   
+           na+-independent cl/hco3 exchanger ae1 and related transporters (slc4 family)
+           chloride[periplasm]  <-->  chloride[cytosol]
+Accepted   G1IA6-17584-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1IA6-17552-MONOMER    Fe2+                     SECONDARY 
+           mitochondrial fe2+ transporter mmt1 and related transporters (cation diffusion facilitator superfamily)
+           Fe2+[periplasm] + H+[periplasm]  ->  Fe2+[cytosol] + H+[cytosol]
+Accepted   G1IA6-22096-MONOMER    H+                       ATP       
+           hydrogen ion transmembrane transporter activity//proton-transporting two-sector atpase complex
+           ATP + H+[periplasm] + H2O  ->  ADP + phosphate + H+[cytosol]
+Accepted   G1IA6-23994-MONOMER    phosphate                UNKNOWN   
+           inorganic phosphate transporter
+           phosphate[periplasm]  <-  phosphate[cytosol]
+Accepted   G1IA6-17383-MONOMER    Fe2+                     SECONDARY 
+           mitochondrial fe2+ transporter mmt1 and related transporters (cation diffusion facilitator superfamily)
+           Fe2+[periplasm] + H+[periplasm]  ->  Fe2+[cytosol] + H+[cytosol]
+Accepted   G1IA6-23957-MONOMER    cholesterol              UNKNOWN   
+           cholesterol transport protein (niemann-pick c disease protein)
+           cholesterol[periplasm]  ->  cholesterol[cytosol]
+Accepted   G1IA6-23928-MONOMER    uracil                   UNKNOWN   
+           xanthine/uracil transporters
+           uracil[periplasm]  <-  uracil[cytosol]
+Accepted   G1IA6-23928-MONOMER    xanthine                 UNKNOWN   
+           xanthine/uracil transporters
+           xanthine[periplasm]  <-  xanthine[cytosol]
+Accepted   G1IA6-23911-MONOMER    Na+                      SECONDARY 
+           na+/pi symporter
+           Na+[periplasm] + H+[periplasm]  ->  Na+[cytosol] + H+[cytosol]
+Accepted   G1IA6-17324-MONOMER    chromate                 UNKNOWN   
+           chromate transmembrane transporter activity//chromate transport
+           chromate[periplasm]  ->  chromate[cytosol]
+Accepted   G1IA6-21932-MONOMER    a glycan                 UNKNOWN   
+           lectin vip36, involved in the transport of glycoproteins carrying high mannose-type glycans
+           a glycan[periplasm]  ->  a glycan[cytosol]
+Accepted   G1IA6-21900-MONOMER    urea                     UNKNOWN   
+           urea transporter
+           urea[periplasm]  <-->  urea[cytosol]
+Accepted   G1IA6-17287-MONOMER    a cation                 CHANNEL   
+           ca2+-modulated nonselective cation channel polycystin
+           a cation[periplasm]  ->  a cation[cytosol]
+Accepted   G1IA6-17363-MONOMER    phosphate                UNKNOWN   
+           protein involved in inorganic phosphate transport
+           phosphate[periplasm]  <-  phosphate[cytosol]
+Accepted   G1IA6-20419-MONOMER    chloride                 CHANNEL   
+           cl- channel clc-3 and related proteins (clc superfamily)
+           chloride[periplasm]  <-->  chloride[cytosol]
+Accepted   G1IA6-20370-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1IA6-20345-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1IA6-20329-MONOMER    D-glucose 6-phosphate    SECONDARY 
+           glucose-6-phosphate/phosphate and phosphoenolpyruvate/phosphate antiporter
+           D-glucose 6-phosphate[periplasm] + phosphate[cytosol]  ->  D-glucose 6-phosphate[cytosol] + phosphate[periplasm]
+Accepted   G1IA6-20308-MONOMER    a metal cation           UNKNOWN   
+           membrane//metal ion transmembrane transporter activity//metal ion transport
+           a metal cation[periplasm]  ->  a metal cation[cytosol]
+Accepted   G1IA6-20306-MONOMER    urea                     UNKNOWN   
+           urea transporter
+           urea[periplasm]  <-->  urea[cytosol]
+Accepted   G1IA6-20300-MONOMER    a cation                 CHANNEL   
+           ca2+-modulated nonselective cation channel polycystin
+           a cation[periplasm]  ->  a cation[cytosol]
+Accepted   G1IA6-20266-MONOMER    Zn2+                     UNKNOWN   
+           fe2+/zn2+ regulated transporter
+           Zn2+[periplasm]  ->  Zn2+[cytosol]
+Accepted   G1IA6-20167-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1IA6-20149-MONOMER    guanine                  UNKNOWN   
+           pattern-formation protein/guanine nucleotide exchange factor
+           guanine[periplasm]  ->  guanine[cytosol]
+Accepted   G1IA6-20127-MONOMER    D-glucose 6-phosphate    SECONDARY 
+           glucose-6-phosphate/phosphate and phosphoenolpyruvate/phosphate antiporter
+           D-glucose 6-phosphate[periplasm] + phosphate[cytosol]  ->  D-glucose 6-phosphate[cytosol] + phosphate[periplasm]
+Accepted   G1IA6-20073-MONOMER    chloride                 CHANNEL   
+           cl- channel clc-3 and related proteins (clc superfamily)
+           chloride[periplasm]  <-->  chloride[cytosol]
+Accepted   G1IA6-20055-MONOMER    chromate                 UNKNOWN   
+           chromate transmembrane transporter activity//chromate transport
+           chromate[periplasm]  ->  chromate[cytosol]
+Accepted   G1IA6-20044-MONOMER    H+                       ATP       
+           plasma membrane h+-transporting atpase
+           ATP + H+[periplasm] + H2O  ->  ADP + phosphate + H+[cytosol]
+Accepted   G1IA6-24149-MONOMER    a nucleotide             UNKNOWN   
+           rho/rac gtpase guanine nucleotide exchange factor smggds/vimar
+           a nucleotide[periplasm]  ->  a nucleotide[cytosol]
+Accepted   G1IA6-24149-MONOMER    guanine                  UNKNOWN   
+           rho/rac gtpase guanine nucleotide exchange factor smggds/vimar
+           guanine[periplasm]  ->  guanine[cytosol]
+Accepted   G1IA6-19921-MONOMER    UDP-alpha-D-galactose    UNKNOWN   
+           udp-galactose transporter related protein
+           UDP-alpha-D-galactose[periplasm]  ->  UDP-alpha-D-galactose[cytosol]
+Accepted   G1IA6-19915-MONOMER    a cation                 CHANNEL   
+           ca2+-modulated nonselective cation channel polycystin
+           a cation[periplasm]  ->  a cation[cytosol]
+Accepted   G1IA6-19907-MONOMER    ammonia                  SECONDARY 
+           ammonia permease
+           ammonia[periplasm] + H+[periplasm]  ->  ammonia[cytosol] + H+[cytosol]
+Accepted   G1IA6-19896-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1IA6-22582-MONOMER    a nucleotide             UNKNOWN   
+           guanine nucleotide exchange factor
+           a nucleotide[periplasm]  ->  a nucleotide[cytosol]
+Accepted   G1IA6-22582-MONOMER    guanine                  UNKNOWN   
+           guanine nucleotide exchange factor
+           guanine[periplasm]  ->  guanine[cytosol]
+Accepted   G1IA6-22498-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1IA6-22461-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1IA6-22432-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1IA6-22341-MONOMER    choline                  UNKNOWN   
+           choline transporter-like protein
+           choline[periplasm]  ->  choline[cytosol]
+Accepted   G1IA6-18549-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1IA6-18473-MONOMER    thiamine                 UNKNOWN   
+           uridine permease/thiamine transporter/allantoin transport
+           thiamine[periplasm]  ->  thiamine[cytosol]
+Accepted   G1IA6-18454-MONOMER    Zn2+                     UNKNOWN   
+           putative zinc transporter
+           Zn2+[periplasm]  ->  Zn2+[cytosol]
+Accepted   G1IA6-18390-MONOMER    oxalate                  UNKNOWN   
+           sulfate/bicarbonate/oxalate exchanger sat-1 and related transporters (slc26 family)
+           oxalate[periplasm]  ->  oxalate[cytosol]
+Accepted   G1IA6-18390-MONOMER    hydrogencarbonate        UNKNOWN   
+           sulfate/bicarbonate/oxalate exchanger sat-1 and related transporters (slc26 family)
+           hydrogencarbonate[periplasm]  ->  hydrogencarbonate[cytosol]
+Accepted   G1IA6-18390-MONOMER    sulfate                  UNKNOWN   
+           sulfate/bicarbonate/oxalate exchanger sat-1 and related transporters (slc26 family)
+           sulfate[periplasm]  ->  sulfate[cytosol]
+Accepted   G1IA6-18372-MONOMER    a nucleotide             UNKNOWN   
+           guanine nucleotide exchange factor
+           a nucleotide[periplasm]  ->  a nucleotide[cytosol]
+Accepted   G1IA6-18372-MONOMER    guanine                  UNKNOWN   
+           guanine nucleotide exchange factor
+           guanine[periplasm]  ->  guanine[cytosol]
+Accepted   G1IA6-18321-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1IA6-18143-MONOMER    thiamine                 UNKNOWN   
+           uridine permease/thiamine transporter/allantoin transport
+           thiamine[periplasm]  ->  thiamine[cytosol]
+Accepted   G1IA6-20940-MONOMER    a nucleotide             UNKNOWN   
+           ras1 guanine nucleotide exchange factor
+           a nucleotide[periplasm]  ->  a nucleotide[cytosol]
+Accepted   G1IA6-20940-MONOMER    guanine                  UNKNOWN   
+           ras1 guanine nucleotide exchange factor
+           guanine[periplasm]  ->  guanine[cytosol]
+Accepted   G1IA6-18085-MONOMER    biotin                   UNKNOWN   
+           binding//biotin binding//transport//transporter activity
+           biotin[periplasm]  ->  biotin[cytosol]
+Accepted   G1IA6-20907-MONOMER    Fe3+                     UNKNOWN   
+           iron transporter
+           Fe3+[periplasm]  ->  Fe3+[cytosol]
+Accepted   G1IA6-20887-MONOMER    a nucleotide             UNKNOWN   
+           ras1 guanine nucleotide exchange factor
+           a nucleotide[periplasm]  ->  a nucleotide[cytosol]
+Accepted   G1IA6-20887-MONOMER    guanine                  UNKNOWN   
+           ras1 guanine nucleotide exchange factor
+           guanine[periplasm]  ->  guanine[cytosol]
+Accepted   G1IA6-18054-MONOMER    Mg2+                     UNKNOWN   
+           magnesium transporters: cora family
+           Mg2+[periplasm]  ->  Mg2+[cytosol]
+Accepted   G1IA6-20856-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1IA6-18023-MONOMER    thiamine                 UNKNOWN   
+           uridine permease/thiamine transporter/allantoin transport
+           thiamine[periplasm]  ->  thiamine[cytosol]
+Accepted   G1IA6-17984-MONOMER    Ca2+                     SECONDARY 
+           ca2+/h+ antiporter vcx1 and related proteins
+           Ca2+[periplasm] + H+[cytosol]  ->  Ca2+[cytosol] + H+[periplasm]
+Accepted   G1IA6-24316-MONOMER    phosphate                UNKNOWN   
+           inorganic phosphate transporter
+           phosphate[periplasm]  <-  phosphate[cytosol]
+Accepted   G1IA6-20733-MONOMER    D-glucose 6-phosphate    SECONDARY 
+           glucose-6-phosphate/phosphate and phosphoenolpyruvate/phosphate antiporter
+           D-glucose 6-phosphate[periplasm] + phosphate[cytosol]  ->  D-glucose 6-phosphate[cytosol] + phosphate[periplasm]
+Accepted   G1IA6-20715-MONOMER    a nucleotide sugar       UNKNOWN   
+           nucleotide-sugar transporter vrg4/sqv-7
+           a nucleotide sugar[periplasm]  ->  a nucleotide sugar[cytosol]
+Accepted   G1IA6-22902-MONOMER    UDP-alpha-D-galactose    UNKNOWN   
+           predicted udp-galactose transporter
+           UDP-alpha-D-galactose[periplasm]  ->  UDP-alpha-D-galactose[cytosol]
+Accepted   G1IA6-20662-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1IA6-20636-MONOMER    Cd2+                     SECONDARY 
+           zn2+ transporter znt1 and related cd2+/zn2+ transporters (cation diffusion facilitator superfamily)
+           Cd2+[periplasm] + Zn2+[periplasm]  ->  Cd2+[cytosol] + Zn2+[cytosol]
+Accepted   G1IA6-20594-MONOMER    Zn2+                     UNKNOWN   
+           fe2+/zn2+ regulated transporter
+           Zn2+[periplasm]  ->  Zn2+[cytosol]
+Accepted   G1IA6-20590-MONOMER    thiamine                 UNKNOWN   
+           uridine permease/thiamine transporter/allantoin transport
+           thiamine[periplasm]  ->  thiamine[cytosol]
+Accepted   G1IA6-22773-MONOMER    phosphate                UNKNOWN   
+           inorganic phosphate transporter
+           phosphate[periplasm]  <-  phosphate[cytosol]
+Accepted   G1IA6-22705-MONOMER    hydrogencarbonate        UNKNOWN   
+           na+-independent cl/hco3 exchanger ae1 and related transporters (slc4 family)
+           hydrogencarbonate[periplasm]  ->  hydrogencarbonate[cytosol]
+Accepted   G1IA6-22705-MONOMER    chloride                 UNKNOWN   
+           na+-independent cl/hco3 exchanger ae1 and related transporters (slc4 family)
+           chloride[periplasm]  <-->  chloride[cytosol]
+Accepted   G1IA6-20470-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1IA6-17198-MONOMER    Zn2+                     UNKNOWN   
+           fe2+/zn2+ regulated transporter
+           Zn2+[periplasm]  ->  Zn2+[cytosol]
+Accepted   G1IA6-17138-MONOMER    cholesterol              UNKNOWN   
+           cholesterol transport protein (niemann-pick c disease protein)
+           cholesterol[periplasm]  ->  cholesterol[cytosol]
+Accepted   G1IA6-17090-MONOMER    a nucleotide             UNKNOWN   
+           ras1 guanine nucleotide exchange factor
+           a nucleotide[periplasm]  ->  a nucleotide[cytosol]
+Accepted   G1IA6-17090-MONOMER    guanine                  UNKNOWN   
+           ras1 guanine nucleotide exchange factor
+           guanine[periplasm]  ->  guanine[cytosol]
+Accepted   G1IA6-19248-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1IA6-19225-MONOMER    Zn2+                     UNKNOWN   
+           fe2+/zn2+ regulated transporter
+           Zn2+[periplasm]  ->  Zn2+[cytosol]
+Accepted   G1IA6-23291-MONOMER    K+                       SECONDARY 
+           na+/k+ transporter
+           K+[periplasm] + Na+[periplasm]  ->  K+[cytosol] + Na+[cytosol]
+Accepted   G1IA6-19200-MONOMER    oxalate                  UNKNOWN   
+           sulfate/bicarbonate/oxalate exchanger sat-1 and related transporters (slc26 family)
+           oxalate[periplasm]  ->  oxalate[cytosol]
+Accepted   G1IA6-19200-MONOMER    hydrogencarbonate        UNKNOWN   
+           sulfate/bicarbonate/oxalate exchanger sat-1 and related transporters (slc26 family)
+           hydrogencarbonate[periplasm]  ->  hydrogencarbonate[cytosol]
+Accepted   G1IA6-19200-MONOMER    sulfate                  UNKNOWN   
+           sulfate/bicarbonate/oxalate exchanger sat-1 and related transporters (slc26 family)
+           sulfate[periplasm]  ->  sulfate[cytosol]
+Accepted   G1IA6-19151-MONOMER    a bile acid              SECONDARY 
+           bile acid:sodium symporter activity//integral to membrane//membrane//sodium ion transport
+           a bile acid[periplasm] + H+[periplasm]  ->  a bile acid[cytosol] + H+[cytosol]
+Accepted   G1IA6-16983-MONOMER    ammonia                  SECONDARY 
+           ammonia permease
+           ammonia[periplasm] + H+[periplasm]  ->  ammonia[cytosol] + H+[cytosol]
+Accepted   G1IA6-19082-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1IA6-19068-MONOMER    thiamine                 UNKNOWN   
+           uridine permease/thiamine transporter/allantoin transport
+           thiamine[periplasm]  ->  thiamine[cytosol]
+Accepted   G1IA6-23132-MONOMER    ammonia                  SECONDARY 
+           ammonia permease
+           ammonia[periplasm] + H+[periplasm]  ->  ammonia[cytosol] + H+[cytosol]
+Accepted   G1IA6-21434-MONOMER    Ca2+                     SECONDARY 
+           k+-dependent na+:ca2+ antiporter
+           Ca2+[periplasm] + Na+[cytosol]  ->  Ca2+[cytosol] + Na+[periplasm]
+Accepted   G1IA6-21434-MONOMER    K+                       SECONDARY 
+           k+-dependent na+:ca2+ antiporter
+           K+[periplasm] + Na+[cytosol]  ->  K+[cytosol] + Na+[periplasm]
+Accepted   G1IA6-19016-MONOMER    phosphate                UNKNOWN   
+           inorganic phosphate transporter
+           phosphate[periplasm]  <-  phosphate[cytosol]
+Accepted   G1IA6-21391-MONOMER    Cu2+                     UNKNOWN   
+           copper transporter
+           Cu2+[periplasm]  ->  Cu2+[cytosol]
+Accepted   G1IA6-18999-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1IA6-23059-MONOMER    a cation                 CHANNEL   
+           ca2+-modulated nonselective cation channel polycystin
+           a cation[periplasm]  ->  a cation[cytosol]
+Accepted   G1IA6-23056-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporter protein
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1IA6-18952-MONOMER    Fe2+                     SECONDARY 
+           mitochondrial fe2+ transporter mmt1 and related transporters (cation diffusion facilitator superfamily)
+           Fe2+[periplasm] + H+[periplasm]  ->  Fe2+[cytosol] + H+[cytosol]
+Accepted   G1IA6-18957-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1IA6-18965-MONOMER    choline                  UNKNOWN   
+           choline transporter-like protein
+           choline[periplasm]  ->  choline[cytosol]
+Accepted   G1IA6-18976-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1IA6-21263-MONOMER    Cu2+                     UNKNOWN   
+           copper transporter
+           Cu2+[periplasm]  ->  Cu2+[cytosol]
+Accepted   G1IA6-21257-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1IA6-18873-MONOMER    a cation                 ATP       
+           cation transport atpase
+           a cation[periplasm] + ATP + H2O  ->  a cation[cytosol] + ADP + phosphate
+Accepted   G1IA6-16806-MONOMER    a cation                 UNKNOWN   
+           predicted cation transporter
+           a cation[periplasm]  ->  a cation[cytosol]
+Accepted   G1IA6-16814-MONOMER    a cation                 UNKNOWN   
+           cation transmembrane transporter activity//cation transport//membrane
+           a cation[periplasm]  ->  a cation[cytosol]
+Accepted   G1IA6-24428-MONOMER    a nucleotide             UNKNOWN   
+           guanine nucleotide exchange factor
+           a nucleotide[periplasm]  ->  a nucleotide[cytosol]
+Accepted   G1IA6-24428-MONOMER    guanine                  UNKNOWN   
+           guanine nucleotide exchange factor
+           guanine[periplasm]  ->  guanine[cytosol]
+Accepted   G1IA6-16751-MONOMER    Fe2+                     SECONDARY 
+           mitochondrial fe2+ transporter mmt1 and related transporters (cation diffusion facilitator superfamily)
+           Fe2+[periplasm] + H+[periplasm]  ->  Fe2+[cytosol] + H+[cytosol]
+Accepted   G1IA6-21079-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1IA6-21075-MONOMER    Fe3+                     ATP       
+           mitochondrial fe/s cluster exporter, abc superfamily
+           Fe3+[cytosol] + ATP + H2O  ->  Fe3+[periplasm] + ADP + phosphate
+Accepted   G1IA6-18717-MONOMER    a cation                 CHANNEL   
+           ca2+-modulated nonselective cation channel polycystin
+           a cation[periplasm]  ->  a cation[cytosol]
+Accepted   G1IA6-18694-MONOMER    sucrose                  UNKNOWN   
+           sucrose transporter and related proteins
+           sucrose[periplasm]  ->  sucrose[cytosol]
+Accepted   G1IA6-16727-MONOMER    D-gluconate              UNKNOWN   
+           gluconate transport-inducing protein
+           D-gluconate[periplasm]  ->  D-gluconate[cytosol]
+Accepted   G1IA6-16700-MONOMER    thiamine                 UNKNOWN   
+           uridine permease/thiamine transporter/allantoin transport
+           thiamine[periplasm]  ->  thiamine[cytosol]
+Accepted   G1IA6-16651-MONOMER    a dicarboxylate          SECONDARY 
+           na+/dicarboxylate, na+/tricarboxylate and phosphate transporters
+           a dicarboxylate[periplasm] + Na+[periplasm]  ->  a dicarboxylate[cytosol] + Na+[cytosol]
+Accepted   G1IA6-16650-MONOMER    a nucleoside             UNKNOWN   
+           equilibrative nucleoside transporter protein
+           a nucleoside[periplasm]  ->  a nucleoside[cytosol]
+Accepted   G1IA6-16643-MONOMER    Zn2+                     UNKNOWN   
+           zinc transporter and related zip domain-containing proteins
+           Zn2+[periplasm]  ->  Zn2+[cytosol]
+Accepted   G1IA6-16591-MONOMER    a metal cation           UNKNOWN   
+           membrane//metal ion transmembrane transporter activity//metal ion transport
+           a metal cation[periplasm]  ->  a metal cation[cytosol]
+Accepted   G1IA6-16581-MONOMER    an amino acid            SECONDARY 
+           lst7 amino acid permease golgi transport protein
+           an amino acid[periplasm] + H+[periplasm]  ->  an amino acid[cytosol] + H+[cytosol]
+Unreviewed G1IA6-21696-MONOMER    Ca2+                     UNKNOWN   
+           voltage-gated ca2+ channels, alpha1 subunits
+           Several possible reactions available for import
+Unreviewed G1IA6-19732-MONOMER    K+                       UNKNOWN   
+           membrane//potassium ion transmembrane transporter activity//potassium ion transport
+           Several possible reactions available for import
+Unreviewed G1IA6-21470-MONOMER    K+                       CHANNEL   
+           voltage-gated shaker-like k+ channel, subunit beta/kcnab
+           Several possible reactions available for import
+Unreviewed G1IA6-19480-MONOMER    Fe2+                     UNKNOWN   
+           fe2+/zn2+ regulated transporter
+           Several possible reactions available for import
+Unreviewed G1IA6-23609-MONOMER    K+                       CHANNEL   
+           ca2+-activated k+ channel proteins (intermediate/small conductance classes)
+           Several possible reactions available for import
+Unreviewed G1IA6-17569-MONOMER    Na+                      SECONDARY 
+           na+/h+ antiporter
+           Several possible reactions available for import
+Unreviewed G1IA6-17540-MONOMER    K+                       CHANNEL   
+           ca2+-activated k+ channel slowpoke, alpha subunit
+           Several possible reactions available for import
+Unreviewed G1IA6-20290-MONOMER    K+                       UNKNOWN   
+           predicted k+/h+-antiporter
+           Several possible reactions available for import
+Unreviewed G1IA6-20266-MONOMER    Fe2+                     UNKNOWN   
+           fe2+/zn2+ regulated transporter
+           Several possible reactions available for import
+Unreviewed G1IA6-24188-MONOMER    K+                       CHANNEL   
+           tandem pore domain k+ channel
+           Several possible reactions available for import
+Unreviewed G1IA6-24138-MONOMER    Fe2+                     UNKNOWN   
+           mn2+ and fe2+ transporters of the nramp family
+           Several possible reactions available for import
+Unreviewed G1IA6-24138-MONOMER    Mn2+                     UNKNOWN   
+           mn2+ and fe2+ transporters of the nramp family
+           Several possible reactions available for import
+Unreviewed G1IA6-24363-MONOMER    K+                       UNKNOWN   
+           membrane//potassium ion transmembrane transporter activity//potassium ion transport
+           Several possible reactions available for import
+Unreviewed G1IA6-20594-MONOMER    Fe2+                     UNKNOWN   
+           fe2+/zn2+ regulated transporter
+           Several possible reactions available for import
+Unreviewed G1IA6-17198-MONOMER    Fe2+                     UNKNOWN   
+           fe2+/zn2+ regulated transporter
+           Several possible reactions available for import
+Unreviewed G1IA6-17118-MONOMER    Fe2+                     UNKNOWN   
+           mn2+ and fe2+ transporters of the nramp family
+           Several possible reactions available for import
+Unreviewed G1IA6-17118-MONOMER    Mn2+                     UNKNOWN   
+           mn2+ and fe2+ transporters of the nramp family
+           Several possible reactions available for import
+Unreviewed G1IA6-17080-MONOMER    K+                       UNKNOWN   
+           k+-channel kcnq
+           Several possible reactions available for import
+Unreviewed G1IA6-19225-MONOMER    Fe2+                     UNKNOWN   
+           fe2+/zn2+ regulated transporter
+           Several possible reactions available for import
+Unreviewed G1IA6-19091-MONOMER    Na+                      SECONDARY 
+           sodium/hydrogen exchanger protein
+           Several possible reactions available for import
+Unreviewed G1IA6-19089-MONOMER    Na+                      SECONDARY 
+           sodium/hydrogen exchanger protein
+           Several possible reactions available for import
+Unreviewed G1IA6-23094-MONOMER    K+                       CHANNEL   
+           voltage-gated shaker-like k+ channel, subunit beta/kcnab
+           Several possible reactions available for import
+Unreviewed G1IA6-21136-MONOMER    K+                       CHANNEL   
+           tandem pore domain k+ channel
+           Several possible reactions available for import
+Unreviewed G1IA6-16750-MONOMER    H+                       SECONDARY 
+           integral to membrane//regulation of ph//solute:hydrogen antiporter activity
+           Several possible reactions available for import
+Unreviewed G1IA6-16655-MONOMER    Na+                      SECONDARY 
+           na+/h+ antiporter
+           Several possible reactions available for import
+
+
+Unreviewed G1IA6-16386-MONOMER  (no substrate identified)
+Unreviewed G1IA6-16547-MONOMER  (no substrate identified)
+Unreviewed G1IA6-16601-MONOMER  (no substrate identified)
+Unreviewed G1IA6-16645-MONOMER  (no substrate identified)
+Unreviewed G1IA6-16704-MONOMER  (no substrate identified)
+Unreviewed G1IA6-16809-MONOMER  (no substrate identified)
+Unreviewed G1IA6-16889-MONOMER  (no substrate identified)
+Unreviewed G1IA6-16916-MONOMER  (no substrate identified)
+Unreviewed G1IA6-16939-MONOMER  (no substrate identified)
+Unreviewed G1IA6-16955-MONOMER  (no substrate identified)
+Unreviewed G1IA6-17111-MONOMER  (no substrate identified)
+Unreviewed G1IA6-17169-MONOMER  (no substrate identified)
+Unreviewed G1IA6-17173-MONOMER  (no substrate identified)
+Unreviewed G1IA6-17218-MONOMER  (no substrate identified)
+Unreviewed G1IA6-17222-MONOMER  (no substrate identified)
+Unreviewed G1IA6-17225-MONOMER  (no substrate identified)
+Unreviewed G1IA6-17246-MONOMER  (no substrate identified)
+Unreviewed G1IA6-17267-MONOMER  (no substrate identified)
+Unreviewed G1IA6-17277-MONOMER  (no substrate identified)
+Unreviewed G1IA6-17285-MONOMER  (no substrate identified)
+Unreviewed G1IA6-17379-MONOMER  (no substrate identified)
+Unreviewed G1IA6-17394-MONOMER  (no substrate identified)
+Unreviewed G1IA6-17411-MONOMER  (no substrate identified)
+Unreviewed G1IA6-17443-MONOMER  (no substrate identified)
+Unreviewed G1IA6-17454-MONOMER  (no substrate identified)
+Unreviewed G1IA6-17513-MONOMER  (no substrate identified)
+Unreviewed G1IA6-17514-MONOMER  (no substrate identified)
+Unreviewed G1IA6-17535-MONOMER  (no substrate identified)
+Unreviewed G1IA6-17537-MONOMER  (no substrate identified)
+Unreviewed G1IA6-17553-MONOMER  (no substrate identified)
+Unreviewed G1IA6-17586-MONOMER  (no substrate identified)
+Unreviewed G1IA6-17599-MONOMER  (no substrate identified)
+Unreviewed G1IA6-17622-MONOMER  (no substrate identified)
+Unreviewed G1IA6-17647-MONOMER  (no substrate identified)
+Unreviewed G1IA6-17655-MONOMER  (no substrate identified)
+Unreviewed G1IA6-17660-MONOMER  (no substrate identified)
+Unreviewed G1IA6-17666-MONOMER  (no substrate identified)
+Unreviewed G1IA6-17773-MONOMER  (no substrate identified)
+Unreviewed G1IA6-17850-MONOMER  (no substrate identified)
+Unreviewed G1IA6-17856-MONOMER  (no substrate identified)
+Unreviewed G1IA6-17860-MONOMER  (no substrate identified)
+Unreviewed G1IA6-17864-MONOMER  (no substrate identified)
+Unreviewed G1IA6-17876-MONOMER  (no substrate identified)
+Unreviewed G1IA6-17906-MONOMER  (no substrate identified)
+Unreviewed G1IA6-17911-MONOMER  (no substrate identified)
+Unreviewed G1IA6-17943-MONOMER  (no substrate identified)
+Unreviewed G1IA6-17990-MONOMER  (no substrate identified)
+Unreviewed G1IA6-17996-MONOMER  (no substrate identified)
+Unreviewed G1IA6-18125-MONOMER  (no substrate identified)
+Unreviewed G1IA6-18128-MONOMER  (no substrate identified)
+Unreviewed G1IA6-18171-MONOMER  (no substrate identified)
+Unreviewed G1IA6-18213-MONOMER  (no substrate identified)
+Unreviewed G1IA6-18234-MONOMER  (no substrate identified)
+Unreviewed G1IA6-18273-MONOMER  (no substrate identified)
+Unreviewed G1IA6-18279-MONOMER  (no substrate identified)
+Unreviewed G1IA6-18295-MONOMER  (no substrate identified)
+Unreviewed G1IA6-18341-MONOMER  (no substrate identified)
+Unreviewed G1IA6-18353-MONOMER  (no substrate identified)
+Unreviewed G1IA6-18357-MONOMER  (no substrate identified)
+Unreviewed G1IA6-18391-MONOMER  (no substrate identified)
+Unreviewed G1IA6-18506-MONOMER  (no substrate identified)
+Unreviewed G1IA6-18543-MONOMER  (no substrate identified)
+Unreviewed G1IA6-18595-MONOMER  (no substrate identified)
+Unreviewed G1IA6-18646-MONOMER  (no substrate identified)
+Unreviewed G1IA6-18657-MONOMER  (no substrate identified)
+Unreviewed G1IA6-18659-MONOMER  (no substrate identified)
+Unreviewed G1IA6-18669-MONOMER  (no substrate identified)
+Unreviewed G1IA6-18678-MONOMER  (no substrate identified)
+Unreviewed G1IA6-18718-MONOMER  (no substrate identified)
+Unreviewed G1IA6-18723-MONOMER  (no substrate identified)
+Unreviewed G1IA6-18784-MONOMER  (no substrate identified)
+Unreviewed G1IA6-18797-MONOMER  (no substrate identified)
+Unreviewed G1IA6-18806-MONOMER  (no substrate identified)
+Unreviewed G1IA6-18895-MONOMER  (no substrate identified)
+Unreviewed G1IA6-18938-MONOMER  (no substrate identified)
+Unreviewed G1IA6-18944-MONOMER  (no substrate identified)
+Unreviewed G1IA6-18970-MONOMER  (no substrate identified)
+Unreviewed G1IA6-18974-MONOMER  (no substrate identified)
+Unreviewed G1IA6-18978-MONOMER  (no substrate identified)
+Unreviewed G1IA6-18988-MONOMER  (no substrate identified)
+Unreviewed G1IA6-19011-MONOMER  (no substrate identified)
+Unreviewed G1IA6-19064-MONOMER  (no substrate identified)
+Unreviewed G1IA6-19090-MONOMER  (no substrate identified)
+Unreviewed G1IA6-19245-MONOMER  (no substrate identified)
+Unreviewed G1IA6-19247-MONOMER  (no substrate identified)
+Unreviewed G1IA6-19260-MONOMER  (no substrate identified)
+Unreviewed G1IA6-19315-MONOMER  (no substrate identified)
+Unreviewed G1IA6-19337-MONOMER  (no substrate identified)
+Unreviewed G1IA6-19396-MONOMER  (no substrate identified)
+Unreviewed G1IA6-19407-MONOMER  (no substrate identified)
+Unreviewed G1IA6-19436-MONOMER  (no substrate identified)
+Unreviewed G1IA6-19477-MONOMER  (no substrate identified)
+Unreviewed G1IA6-19562-MONOMER  (no substrate identified)
+Unreviewed G1IA6-19563-MONOMER  (no substrate identified)
+Unreviewed G1IA6-19564-MONOMER  (no substrate identified)
+Unreviewed G1IA6-19568-MONOMER  (no substrate identified)
+Unreviewed G1IA6-19573-MONOMER  (no substrate identified)
+Unreviewed G1IA6-19576-MONOMER  (no substrate identified)
+Unreviewed G1IA6-19595-MONOMER  (no substrate identified)
+Unreviewed G1IA6-19608-MONOMER  (no substrate identified)
+Unreviewed G1IA6-19633-MONOMER  (no substrate identified)
+Unreviewed G1IA6-19641-MONOMER  (no substrate identified)
+Unreviewed G1IA6-19780-MONOMER  (no substrate identified)
+Unreviewed G1IA6-19859-MONOMER  (no substrate identified)
+Unreviewed G1IA6-19897-MONOMER  (no substrate identified)
+Unreviewed G1IA6-20050-MONOMER  (no substrate identified)
+Unreviewed G1IA6-20054-MONOMER  (no substrate identified)
+Unreviewed G1IA6-20101-MONOMER  (no substrate identified)
+Unreviewed G1IA6-20134-MONOMER  (no substrate identified)
+Unreviewed G1IA6-20150-MONOMER  (no substrate identified)
+Unreviewed G1IA6-20201-MONOMER  (no substrate identified)
+Unreviewed G1IA6-20219-MONOMER  (no substrate identified)
+Unreviewed G1IA6-20222-MONOMER  (no substrate identified)
+Unreviewed G1IA6-20281-MONOMER  (no substrate identified)
+Unreviewed G1IA6-20297-MONOMER  (no substrate identified)
+Unreviewed G1IA6-20316-MONOMER  (no substrate identified)
+Unreviewed G1IA6-20412-MONOMER  (no substrate identified)
+Unreviewed G1IA6-20425-MONOMER  (no substrate identified)
+Unreviewed G1IA6-20428-MONOMER  (no substrate identified)
+Unreviewed G1IA6-20495-MONOMER  (no substrate identified)
+Unreviewed G1IA6-20508-MONOMER  (no substrate identified)
+Unreviewed G1IA6-20536-MONOMER  (no substrate identified)
+Unreviewed G1IA6-20634-MONOMER  (no substrate identified)
+Unreviewed G1IA6-20681-MONOMER  (no substrate identified)
+Unreviewed G1IA6-20695-MONOMER  (no substrate identified)
+Unreviewed G1IA6-20708-MONOMER  (no substrate identified)
+Unreviewed G1IA6-20712-MONOMER  (no substrate identified)
+Unreviewed G1IA6-20753-MONOMER  (no substrate identified)
+Unreviewed G1IA6-20769-MONOMER  (no substrate identified)
+Unreviewed G1IA6-20798-MONOMER  (no substrate identified)
+Unreviewed G1IA6-20929-MONOMER  (no substrate identified)
+Unreviewed G1IA6-21064-MONOMER  (no substrate identified)
+Unreviewed G1IA6-21084-MONOMER  (no substrate identified)
+Unreviewed G1IA6-21090-MONOMER  (no substrate identified)
+Unreviewed G1IA6-21129-MONOMER  (no substrate identified)
+Unreviewed G1IA6-21135-MONOMER  (no substrate identified)
+Unreviewed G1IA6-21191-MONOMER  (no substrate identified)
+Unreviewed G1IA6-21197-MONOMER  (no substrate identified)
+Unreviewed G1IA6-21261-MONOMER  (no substrate identified)
+Unreviewed G1IA6-21274-MONOMER  (no substrate identified)
+Unreviewed G1IA6-21284-MONOMER  (no substrate identified)
+Unreviewed G1IA6-21288-MONOMER  (no substrate identified)
+Unreviewed G1IA6-21340-MONOMER  (no substrate identified)
+Unreviewed G1IA6-21348-MONOMER  (no substrate identified)
+Unreviewed G1IA6-21435-MONOMER  (no substrate identified)
+Unreviewed G1IA6-21443-MONOMER  (no substrate identified)
+Unreviewed G1IA6-21444-MONOMER  (no substrate identified)
+Unreviewed G1IA6-21474-MONOMER  (no substrate identified)
+Unreviewed G1IA6-21481-MONOMER  (no substrate identified)
+Unreviewed G1IA6-21529-MONOMER  (no substrate identified)
+Unreviewed G1IA6-21537-MONOMER  (no substrate identified)
+Unreviewed G1IA6-21568-MONOMER  (no substrate identified)
+Unreviewed G1IA6-21600-MONOMER  (no substrate identified)
+Unreviewed G1IA6-21610-MONOMER  (no substrate identified)
+Unreviewed G1IA6-21626-MONOMER  (no substrate identified)
+Unreviewed G1IA6-21627-MONOMER  (no substrate identified)
+Unreviewed G1IA6-21630-MONOMER  (no substrate identified)
+Unreviewed G1IA6-21681-MONOMER  (no substrate identified)
+Unreviewed G1IA6-21699-MONOMER  (no substrate identified)
+Unreviewed G1IA6-21770-MONOMER  (no substrate identified)
+Unreviewed G1IA6-21781-MONOMER  (no substrate identified)
+Unreviewed G1IA6-21782-MONOMER  (no substrate identified)
+Unreviewed G1IA6-21785-MONOMER  (no substrate identified)
+Unreviewed G1IA6-21841-MONOMER  (no substrate identified)
+Unreviewed G1IA6-21853-MONOMER  (no substrate identified)
+Unreviewed G1IA6-21857-MONOMER  (no substrate identified)
+Unreviewed G1IA6-21860-MONOMER  (no substrate identified)
+Unreviewed G1IA6-21888-MONOMER  (no substrate identified)
+Unreviewed G1IA6-21972-MONOMER  (no substrate identified)
+Unreviewed G1IA6-21994-MONOMER  (no substrate identified)
+Unreviewed G1IA6-22016-MONOMER  (no substrate identified)
+Unreviewed G1IA6-22028-MONOMER  (no substrate identified)
+Unreviewed G1IA6-22032-MONOMER  (no substrate identified)
+Unreviewed G1IA6-22048-MONOMER  (no substrate identified)
+Unreviewed G1IA6-22050-MONOMER  (no substrate identified)
+Unreviewed G1IA6-22095-MONOMER  (no substrate identified)
+Unreviewed G1IA6-22113-MONOMER  (no substrate identified)
+Unreviewed G1IA6-22122-MONOMER  (no substrate identified)
+Unreviewed G1IA6-22139-MONOMER  (no substrate identified)
+Unreviewed G1IA6-22145-MONOMER  (no substrate identified)
+Unreviewed G1IA6-22173-MONOMER  (no substrate identified)
+Unreviewed G1IA6-22204-MONOMER  (no substrate identified)
+Unreviewed G1IA6-22248-MONOMER  (no substrate identified)
+Unreviewed G1IA6-22262-MONOMER  (no substrate identified)
+Unreviewed G1IA6-22288-MONOMER  (no substrate identified)
+Unreviewed G1IA6-22297-MONOMER  (no substrate identified)
+Unreviewed G1IA6-22378-MONOMER  (no substrate identified)
+Unreviewed G1IA6-22384-MONOMER  (no substrate identified)
+Unreviewed G1IA6-22411-MONOMER  (no substrate identified)
+Unreviewed G1IA6-22425-MONOMER  (no substrate identified)
+Unreviewed G1IA6-22469-MONOMER  (no substrate identified)
+Unreviewed G1IA6-22562-MONOMER  (no substrate identified)
+Unreviewed G1IA6-22568-MONOMER  (no substrate identified)
+Unreviewed G1IA6-22585-MONOMER  (no substrate identified)
+Unreviewed G1IA6-22606-MONOMER  (no substrate identified)
+Unreviewed G1IA6-22632-MONOMER  (no substrate identified)
+Unreviewed G1IA6-22633-MONOMER  (no substrate identified)
+Unreviewed G1IA6-22643-MONOMER  (no substrate identified)
+Unreviewed G1IA6-22646-MONOMER  (no substrate identified)
+Unreviewed G1IA6-22708-MONOMER  (no substrate identified)
+Unreviewed G1IA6-22719-MONOMER  (no substrate identified)
+Unreviewed G1IA6-22746-MONOMER  (no substrate identified)
+Unreviewed G1IA6-22763-MONOMER  (no substrate identified)
+Unreviewed G1IA6-22770-MONOMER  (no substrate identified)
+Unreviewed G1IA6-22774-MONOMER  (no substrate identified)
+Unreviewed G1IA6-22777-MONOMER  (no substrate identified)
+Unreviewed G1IA6-22780-MONOMER  (no substrate identified)
+Unreviewed G1IA6-22823-MONOMER  (no substrate identified)
+Unreviewed G1IA6-22837-MONOMER  (no substrate identified)
+Unreviewed G1IA6-22838-MONOMER  (no substrate identified)
+Unreviewed G1IA6-22882-MONOMER  (no substrate identified)
+Unreviewed G1IA6-22922-MONOMER  (no substrate identified)
+Unreviewed G1IA6-22974-MONOMER  (no substrate identified)
+Unreviewed G1IA6-22982-MONOMER  (no substrate identified)
+Unreviewed G1IA6-22986-MONOMER  (no substrate identified)
+Unreviewed G1IA6-22990-MONOMER  (no substrate identified)
+Unreviewed G1IA6-23041-MONOMER  (no substrate identified)
+Unreviewed G1IA6-23076-MONOMER  (no substrate identified)
+Unreviewed G1IA6-23105-MONOMER  (no substrate identified)
+Unreviewed G1IA6-23263-MONOMER  (no substrate identified)
+Unreviewed G1IA6-23397-MONOMER  (no substrate identified)
+Unreviewed G1IA6-23467-MONOMER  (no substrate identified)
+Unreviewed G1IA6-23468-MONOMER  (no substrate identified)
+Unreviewed G1IA6-23483-MONOMER  (no substrate identified)
+Unreviewed G1IA6-23631-MONOMER  (no substrate identified)
+Unreviewed G1IA6-23722-MONOMER  (no substrate identified)
+Unreviewed G1IA6-23724-MONOMER  (no substrate identified)
+Unreviewed G1IA6-23744-MONOMER  (no substrate identified)
+Unreviewed G1IA6-23790-MONOMER  (no substrate identified)
+Unreviewed G1IA6-23817-MONOMER  (no substrate identified)
+Unreviewed G1IA6-23860-MONOMER  (no substrate identified)
+Unreviewed G1IA6-23873-MONOMER  (no substrate identified)
+Unreviewed G1IA6-23917-MONOMER  (no substrate identified)
+Unreviewed G1IA6-23925-MONOMER  (no substrate identified)
+Unreviewed G1IA6-24028-MONOMER  (no substrate identified)
+Unreviewed G1IA6-24048-MONOMER  (no substrate identified)
+Unreviewed G1IA6-24062-MONOMER  (no substrate identified)
+Unreviewed G1IA6-24083-MONOMER  (no substrate identified)
+Unreviewed G1IA6-24089-MONOMER  (no substrate identified)
+Unreviewed G1IA6-24150-MONOMER  (no substrate identified)
+Unreviewed G1IA6-24163-MONOMER  (no substrate identified)
+Unreviewed G1IA6-24166-MONOMER  (no substrate identified)
+Unreviewed G1IA6-24198-MONOMER  (no substrate identified)
+Unreviewed G1IA6-24240-MONOMER  (no substrate identified)
+Unreviewed G1IA6-24278-MONOMER  (no substrate identified)
+Unreviewed G1IA6-24314-MONOMER  (no substrate identified)
+Unreviewed G1IA6-24325-MONOMER  (no substrate identified)
+Unreviewed G1IA6-24331-MONOMER  (no substrate identified)
+Unreviewed G1IA6-24338-MONOMER  (no substrate identified)
+Unreviewed G1IA6-24365-MONOMER  (no substrate identified)
+Unreviewed G1IA6-24381-MONOMER  (no substrate identified)
+Unreviewed G1IA6-24409-MONOMER  (no substrate identified)
+Unreviewed G1IA6-24446-MONOMER  (no substrate identified)
+Unreviewed G1IA6-24514-MONOMER  (no substrate identified)

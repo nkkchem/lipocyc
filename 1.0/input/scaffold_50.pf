@@ -1,0 +1,14 @@
+ID	Lipst1_1_66846
+NAME	nucleus
+STARTBASE	520
+ENDBASE	24
+PRODUCT-TYPE	P
+DBLINK	GO:0003700
+DBLINK	GO:0005634
+DBLINK	GO:0006355
+DBLINK	GO:0008270
+FUNCTION	nucleus
+FUNCTION	regulation of transcription, DNA-dependent
+FUNCTION	transcription factor activity
+FUNCTION	zinc ion binding
+//

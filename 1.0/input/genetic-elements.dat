@@ -1,0 +1,644 @@
+ID	scaffold_1
+NAME	scaffold_1
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_1.pf
+SEQ-FILE	scaffold_1.fna
+//
+ID	scaffold_10
+NAME	scaffold_10
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_10.pf
+SEQ-FILE	scaffold_10.fna
+//
+ID	scaffold_101
+NAME	scaffold_101
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_101.pf
+SEQ-FILE	scaffold_101.fna
+//
+ID	scaffold_102
+NAME	scaffold_102
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_102.pf
+SEQ-FILE	scaffold_102.fna
+//
+ID	scaffold_107
+NAME	scaffold_107
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_107.pf
+SEQ-FILE	scaffold_107.fna
+//
+ID	scaffold_108
+NAME	scaffold_108
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_108.pf
+SEQ-FILE	scaffold_108.fna
+//
+ID	scaffold_109
+NAME	scaffold_109
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_109.pf
+SEQ-FILE	scaffold_109.fna
+//
+ID	scaffold_11
+NAME	scaffold_11
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_11.pf
+SEQ-FILE	scaffold_11.fna
+//
+ID	scaffold_110
+NAME	scaffold_110
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_110.pf
+SEQ-FILE	scaffold_110.fna
+//
+ID	scaffold_113
+NAME	scaffold_113
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_113.pf
+SEQ-FILE	scaffold_113.fna
+//
+ID	scaffold_114
+NAME	scaffold_114
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_114.pf
+SEQ-FILE	scaffold_114.fna
+//
+ID	scaffold_115
+NAME	scaffold_115
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_115.pf
+SEQ-FILE	scaffold_115.fna
+//
+ID	scaffold_12
+NAME	scaffold_12
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_12.pf
+SEQ-FILE	scaffold_12.fna
+//
+ID	scaffold_13
+NAME	scaffold_13
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_13.pf
+SEQ-FILE	scaffold_13.fna
+//
+ID	scaffold_14
+NAME	scaffold_14
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_14.pf
+SEQ-FILE	scaffold_14.fna
+//
+ID	scaffold_15
+NAME	scaffold_15
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_15.pf
+SEQ-FILE	scaffold_15.fna
+//
+ID	scaffold_16
+NAME	scaffold_16
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_16.pf
+SEQ-FILE	scaffold_16.fna
+//
+ID	scaffold_17
+NAME	scaffold_17
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_17.pf
+SEQ-FILE	scaffold_17.fna
+//
+ID	scaffold_18
+NAME	scaffold_18
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_18.pf
+SEQ-FILE	scaffold_18.fna
+//
+ID	scaffold_19
+NAME	scaffold_19
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_19.pf
+SEQ-FILE	scaffold_19.fna
+//
+ID	scaffold_2
+NAME	scaffold_2
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_2.pf
+SEQ-FILE	scaffold_2.fna
+//
+ID	scaffold_20
+NAME	scaffold_20
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_20.pf
+SEQ-FILE	scaffold_20.fna
+//
+ID	scaffold_21
+NAME	scaffold_21
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_21.pf
+SEQ-FILE	scaffold_21.fna
+//
+ID	scaffold_22
+NAME	scaffold_22
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_22.pf
+SEQ-FILE	scaffold_22.fna
+//
+ID	scaffold_23
+NAME	scaffold_23
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_23.pf
+SEQ-FILE	scaffold_23.fna
+//
+ID	scaffold_24
+NAME	scaffold_24
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_24.pf
+SEQ-FILE	scaffold_24.fna
+//
+ID	scaffold_25
+NAME	scaffold_25
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_25.pf
+SEQ-FILE	scaffold_25.fna
+//
+ID	scaffold_26
+NAME	scaffold_26
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_26.pf
+SEQ-FILE	scaffold_26.fna
+//
+ID	scaffold_27
+NAME	scaffold_27
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_27.pf
+SEQ-FILE	scaffold_27.fna
+//
+ID	scaffold_28
+NAME	scaffold_28
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_28.pf
+SEQ-FILE	scaffold_28.fna
+//
+ID	scaffold_29
+NAME	scaffold_29
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_29.pf
+SEQ-FILE	scaffold_29.fna
+//
+ID	scaffold_3
+NAME	scaffold_3
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_3.pf
+SEQ-FILE	scaffold_3.fna
+//
+ID	scaffold_30
+NAME	scaffold_30
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_30.pf
+SEQ-FILE	scaffold_30.fna
+//
+ID	scaffold_31
+NAME	scaffold_31
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_31.pf
+SEQ-FILE	scaffold_31.fna
+//
+ID	scaffold_32
+NAME	scaffold_32
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_32.pf
+SEQ-FILE	scaffold_32.fna
+//
+ID	scaffold_33
+NAME	scaffold_33
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_33.pf
+SEQ-FILE	scaffold_33.fna
+//
+ID	scaffold_34
+NAME	scaffold_34
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_34.pf
+SEQ-FILE	scaffold_34.fna
+//
+ID	scaffold_35
+NAME	scaffold_35
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_35.pf
+SEQ-FILE	scaffold_35.fna
+//
+ID	scaffold_36
+NAME	scaffold_36
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_36.pf
+SEQ-FILE	scaffold_36.fna
+//
+ID	scaffold_37
+NAME	scaffold_37
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_37.pf
+SEQ-FILE	scaffold_37.fna
+//
+ID	scaffold_38
+NAME	scaffold_38
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_38.pf
+SEQ-FILE	scaffold_38.fna
+//
+ID	scaffold_39
+NAME	scaffold_39
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_39.pf
+SEQ-FILE	scaffold_39.fna
+//
+ID	scaffold_4
+NAME	scaffold_4
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_4.pf
+SEQ-FILE	scaffold_4.fna
+//
+ID	scaffold_40
+NAME	scaffold_40
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_40.pf
+SEQ-FILE	scaffold_40.fna
+//
+ID	scaffold_41
+NAME	scaffold_41
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_41.pf
+SEQ-FILE	scaffold_41.fna
+//
+ID	scaffold_42
+NAME	scaffold_42
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_42.pf
+SEQ-FILE	scaffold_42.fna
+//
+ID	scaffold_43
+NAME	scaffold_43
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_43.pf
+SEQ-FILE	scaffold_43.fna
+//
+ID	scaffold_44
+NAME	scaffold_44
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_44.pf
+SEQ-FILE	scaffold_44.fna
+//
+ID	scaffold_45
+NAME	scaffold_45
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_45.pf
+SEQ-FILE	scaffold_45.fna
+//
+ID	scaffold_46
+NAME	scaffold_46
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_46.pf
+SEQ-FILE	scaffold_46.fna
+//
+ID	scaffold_47
+NAME	scaffold_47
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_47.pf
+SEQ-FILE	scaffold_47.fna
+//
+ID	scaffold_5
+NAME	scaffold_5
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_5.pf
+SEQ-FILE	scaffold_5.fna
+//
+ID	scaffold_50
+NAME	scaffold_50
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_50.pf
+SEQ-FILE	scaffold_50.fna
+//
+ID	scaffold_51
+NAME	scaffold_51
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_51.pf
+SEQ-FILE	scaffold_51.fna
+//
+ID	scaffold_52
+NAME	scaffold_52
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_52.pf
+SEQ-FILE	scaffold_52.fna
+//
+ID	scaffold_53
+NAME	scaffold_53
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_53.pf
+SEQ-FILE	scaffold_53.fna
+//
+ID	scaffold_54
+NAME	scaffold_54
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_54.pf
+SEQ-FILE	scaffold_54.fna
+//
+ID	scaffold_55
+NAME	scaffold_55
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_55.pf
+SEQ-FILE	scaffold_55.fna
+//
+ID	scaffold_57
+NAME	scaffold_57
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_57.pf
+SEQ-FILE	scaffold_57.fna
+//
+ID	scaffold_59
+NAME	scaffold_59
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_59.pf
+SEQ-FILE	scaffold_59.fna
+//
+ID	scaffold_6
+NAME	scaffold_6
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_6.pf
+SEQ-FILE	scaffold_6.fna
+//
+ID	scaffold_60
+NAME	scaffold_60
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_60.pf
+SEQ-FILE	scaffold_60.fna
+//
+ID	scaffold_61
+NAME	scaffold_61
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_61.pf
+SEQ-FILE	scaffold_61.fna
+//
+ID	scaffold_63
+NAME	scaffold_63
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_63.pf
+SEQ-FILE	scaffold_63.fna
+//
+ID	scaffold_66
+NAME	scaffold_66
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_66.pf
+SEQ-FILE	scaffold_66.fna
+//
+ID	scaffold_67
+NAME	scaffold_67
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_67.pf
+SEQ-FILE	scaffold_67.fna
+//
+ID	scaffold_7
+NAME	scaffold_7
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_7.pf
+SEQ-FILE	scaffold_7.fna
+//
+ID	scaffold_71
+NAME	scaffold_71
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_71.pf
+SEQ-FILE	scaffold_71.fna
+//
+ID	scaffold_72
+NAME	scaffold_72
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_72.pf
+SEQ-FILE	scaffold_72.fna
+//
+ID	scaffold_73
+NAME	scaffold_73
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_73.pf
+SEQ-FILE	scaffold_73.fna
+//
+ID	scaffold_74
+NAME	scaffold_74
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_74.pf
+SEQ-FILE	scaffold_74.fna
+//
+ID	scaffold_75
+NAME	scaffold_75
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_75.pf
+SEQ-FILE	scaffold_75.fna
+//
+ID	scaffold_77
+NAME	scaffold_77
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_77.pf
+SEQ-FILE	scaffold_77.fna
+//
+ID	scaffold_78
+NAME	scaffold_78
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_78.pf
+SEQ-FILE	scaffold_78.fna
+//
+ID	scaffold_79
+NAME	scaffold_79
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_79.pf
+SEQ-FILE	scaffold_79.fna
+//
+ID	scaffold_8
+NAME	scaffold_8
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_8.pf
+SEQ-FILE	scaffold_8.fna
+//
+ID	scaffold_80
+NAME	scaffold_80
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_80.pf
+SEQ-FILE	scaffold_80.fna
+//
+ID	scaffold_81
+NAME	scaffold_81
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_81.pf
+SEQ-FILE	scaffold_81.fna
+//
+ID	scaffold_82
+NAME	scaffold_82
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_82.pf
+SEQ-FILE	scaffold_82.fna
+//
+ID	scaffold_83
+NAME	scaffold_83
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_83.pf
+SEQ-FILE	scaffold_83.fna
+//
+ID	scaffold_84
+NAME	scaffold_84
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_84.pf
+SEQ-FILE	scaffold_84.fna
+//
+ID	scaffold_86
+NAME	scaffold_86
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_86.pf
+SEQ-FILE	scaffold_86.fna
+//
+ID	scaffold_87
+NAME	scaffold_87
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_87.pf
+SEQ-FILE	scaffold_87.fna
+//
+ID	scaffold_89
+NAME	scaffold_89
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_89.pf
+SEQ-FILE	scaffold_89.fna
+//
+ID	scaffold_9
+NAME	scaffold_9
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_9.pf
+SEQ-FILE	scaffold_9.fna
+//
+ID	scaffold_90
+NAME	scaffold_90
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_90.pf
+SEQ-FILE	scaffold_90.fna
+//
+ID	scaffold_92
+NAME	scaffold_92
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_92.pf
+SEQ-FILE	scaffold_92.fna
+//
+ID	scaffold_95
+NAME	scaffold_95
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_95.pf
+SEQ-FILE	scaffold_95.fna
+//
+ID	scaffold_96
+NAME	scaffold_96
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_96.pf
+SEQ-FILE	scaffold_96.fna
+//
+ID	scaffold_97
+NAME	scaffold_97
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_97.pf
+SEQ-FILE	scaffold_97.fna
+//
+ID	scaffold_98
+NAME	scaffold_98
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_98.pf
+SEQ-FILE	scaffold_98.fna
+//
+ID	scaffold_99
+NAME	scaffold_99
+TYPE	:CHRSM
+CIRCULAR	N
+ANNOT-FILE	scaffold_99.pf
+SEQ-FILE	scaffold_99.fna
+//
